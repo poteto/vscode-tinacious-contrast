@@ -1,23 +1,23 @@
 {
-  "name": "theme-tinacious-contrast",
-  "displayName": "Tinacious Contrast Color Theme",
-  "description": "A high contrast version of Tinacious Design",
-  "version": "0.0.1",
-  "publisher": "sugarpirate",
-  "repository": "https://github.com/poteto/vscode-tinacious-contrast",
-  "engines": {
-    "vscode": "^1.5.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-        {
-          "label": "Tinacious Contrast",
-          "uiTheme": "vs-dark",
-          "path": "./themes/tinacious-contrast.tmTheme"
-        }
-    ]
-  }
+    "name": "theme-tinacious-contrast",
+    "displayName": "Tinacious Contrast Color Theme",
+    "description": "A high contrast version of Tinacious Design",
+    "version": "0.0.2",
+    "publisher": "sugarpirate",
+    "repository": "https://github.com/poteto/vscode-tinacious-contrast",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tinacious Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tinacious-contrast.tmTheme"
+            }
+        ]
+    }
 }
