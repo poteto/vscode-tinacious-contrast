@@ -24,9 +24,7 @@
 				<key>lineHighlight</key>
 				<string>#151515</string>
 				<key>selection</key>
-				<string>#FF3399</string>
-				<key>selectionForeground</key>
-				<string>#FFFFFF</string>
+				<string>#555555</string>
 				<key>rangeHighlight</key>
 				<string>#151515</string>
 				<key>findMatchHighlight</key>
