@@ -1,0 +1,22 @@
+{
+  "name": "theme-tinacious-contrast",
+  "displayName": "Tinacious Contrast Color Theme",
+  "description": "A high contrast version of Tinacious Design",
+  "version": "0.0.1",
+  "publisher": "sugarpirate",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+        {
+          "label": "Tinacious Contrast",
+          "uiTheme": "vs-dark",
+          "path": "./themes/tinacious-contrast.tmTheme"
+        }
+    ]
+  }
+}
