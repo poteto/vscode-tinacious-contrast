@@ -4,6 +4,7 @@
   "description": "A high contrast version of Tinacious Design",
   "version": "0.0.1",
   "publisher": "sugarpirate",
+  "repository": "https://github.com/poteto/vscode-tinacious-contrast",
   "engines": {
     "vscode": "^1.5.0"
   },
