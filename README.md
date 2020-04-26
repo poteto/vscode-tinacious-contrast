@@ -1,3 +1,5 @@
+**This theme is no longer being maintained. Please download the [original theme](https://github.com/tinacious/vscode-tinacious-design-syntax) by @tinacious instead!
+
 # Tinacious Contrast
 
 A high contrast version of [Tinacious Design Syntax](https://github.com/tinacious/vscode-tinacious-design-syntax). Best used with 14px [FiraCode](https://github.com/tonsky/FiraCode) and 22px line height:
