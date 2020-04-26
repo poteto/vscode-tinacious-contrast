@@ -1,4 +1,4 @@
-**This theme is no longer being maintained. Please download the [original theme](https://github.com/tinacious/vscode-tinacious-design-syntax) by @tinacious instead!
+**This theme is no longer being maintained. Please download the [original theme](https://github.com/tinacious/vscode-tinacious-design-syntax) by @tinacious instead!**
 
 # Tinacious Contrast
 
